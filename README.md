@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lazyapply](https://lazyapply.com)
 
-- ⚡ Fun fact **Love to dance/Sketch/Doodling, Love to play Football**
+- ⚡ Fun fact **Love Dancing, Sketching, Doodling, Playing Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
