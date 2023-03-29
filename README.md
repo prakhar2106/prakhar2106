@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakhar Gupta</h1>
 <h3 align="center">Software Developer & Co-Founder</h3>
-<img align="right" alt="Coding" width="400" src="https://content.lazyapply.com/19362653-removebg-preview.png"/>
+<img align="right" alt="Coding" width="400" src="https://content.lazyapply.com/19362653-removebg-preview.png" style={marginBottom:'10px'}/>
 
 
 - 🔭 I’m currently working on [Lazyapply](https://lazyapply.com)
